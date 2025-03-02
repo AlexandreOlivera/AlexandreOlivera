@@ -3,10 +3,6 @@ Hello! I'm Alexandre Oliveira, a Software Developer specializing in Java and Mob
 I’m passionate about building scalable backend systems using Java Spring Boot<br> while also creating visually stunning and user-friendly mobile apps with Flutter 💙.<br>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=spring-boot)
-![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=plastic&logo=spring-security&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) 
