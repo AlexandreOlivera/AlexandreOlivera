@@ -14,7 +14,6 @@ I’m passionate about building scalable backend systems using Java Spring Boot<
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlexandreOlivera&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreOlivera&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOlivera&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
