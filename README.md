@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello! I'm Alexandre Oliveira, a Software Developer specializing in Java and Mobile Development.<br>
-I’m passionate about building scalable backend systems using Java Spring Boot<br> while also creating visually stunning and user-friendly mobile apps with Flutter 💙.<br>
+Hello! I'm Alexandre Oliveira, a Mobile Developer specializing in Flutter.<br>
+I’m passionate about building visually stunning and user-friendly mobile apps with Flutter 💙.<br>
 
 # 💻 Tech Stack:
 ![Postgres](https://img.shields.io/badge/postgres-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
